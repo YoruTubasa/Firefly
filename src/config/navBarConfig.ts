@@ -100,13 +100,13 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 			{
 				name: "顶上交流会所",
-				url: URL1,
+				url: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fs_1oMKzUAImE4iOXSxXdtSZ5lcw72Pc&authKey=avH85uvZ6F%2FUlCms54xHtKB6Pb2ymQcLm3OzBlLqK2MpcOlNxOkpUwehRyvi1W9m&noverify=0&group_code=853263379',
 				external: true,
 				icon: "fa7-brands:qq",
 			},
 			{
-				name: "管理群",
-				url: URL2,
+				name: "YORUTUBASA",
+				url: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4QFJTrPMhbo1QEdGzYO95jPbdWfY4l_a&authKey=%2FHgwd9lDqiYz0s6QlKdAnDCdYVuEOW5FZPa1%2FqgcoaVwL3vxeT5P7Ysj%2FBE9GTs0&noverify=0&group_code=1046678455',
 				external: true,
 				icon: "fa7-brands:qq",
 			},
